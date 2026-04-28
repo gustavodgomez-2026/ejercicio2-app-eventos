@@ -1,1 +1,1 @@
-fastapi, uvicorn y pydantic
+fastapi, uvicorn, pydantic
